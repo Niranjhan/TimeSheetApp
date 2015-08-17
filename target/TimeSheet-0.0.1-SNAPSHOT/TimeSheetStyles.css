@@ -1,0 +1,58 @@
+
+body {
+box-sizing : border-box;
+margin : 0px auto;
+}
+
+.container {
+margin : 0px auto;
+width : 960px;
+}
+h1 {
+    text-align: center;   
+}
+
+.TimeSheet {
+margin  : 0px auto;
+width : 525px;
+text-align : center;
+
+}
+
+table,td,tr {
+border : 1px solid black;
+height : 45px;
+padding : 0px;
+margin : 0px;
+}
+
+.dp
+{
+  height: 40px;
+  width: 75px;
+  padding: 0px;
+  margin: 0px;
+  text-align : center;
+}
+
+.totdp
+{
+  height: 40px;
+  width: 75px;
+  padding: 0px;
+  margin: 0px;
+  text-align : center;
+}
+.totdp-inner
+{
+margin : 30% auto;
+}
+
+.go
+{
+margin : 0px 45%;
+}
+
+.form-control{
+  width : 60%;
+  }
